@@ -30,3 +30,6 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 * This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 * For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 * Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+[![Build Status](https://dev.azure.com/DPSD-Project-Template/DevOps%20-%20Tutorial%20Project/_apis/build/status%2Fasbjorntonstad.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/DPSD-Project-Template/DevOps%20-%20Tutorial%20Project/_build/latest?definitionId=1&branchName=main)
+
